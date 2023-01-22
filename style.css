@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+}
+
+#pick{
+    display: block;
+    margin:50px auto;
+    border-radius: 5%;
+    border-color: #34a1eb;
+    background-color: red;
+    font-weight: bold;
+}
+
+div.result{
+    position: relative;
+    margin-left: 43%;
+    width: 50px;
+
+}
+
+img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
